@@ -14,7 +14,8 @@
         "servo",
         "beep_duration",
         "sound_freq",
-        "noSound"
+        "noSound",
+        "led_control"
     ],
     depends: []
 });
