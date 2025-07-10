@@ -6,8 +6,8 @@
 - **B0** → `IO2`  
 - **B1** → `IO3`
 
-### Analog Inputs & Outputs
-- `A0`, `A1`, `A2`, `A3`, `A4`, `A5`, `A6`, `A7`
+### Analog Inputs & Outputs (128s102)
+- Not define
 
 ---
 
